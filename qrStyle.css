@@ -68,7 +68,7 @@
     /* Apply styles to the generated QR code image */
     #imgBox img{
     width: 100%;
-    padding: 10px;
+    padding: 12px;
     }
     
     /* Show the image container and set its height when the QR code is generated */
